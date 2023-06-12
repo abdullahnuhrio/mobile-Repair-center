@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repair Center", "Repair Center\Repair Center.csproj", "{7CAAB2CC-F8EA-4077-A42D-F7CE62E2824B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FarmanMobileZone", "FarmanMobileZone\FarmanMobileZone.vdproj", "{1D819619-2078-4278-BE27-7A22DC5BAE3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CAAB2CC-F8EA-4077-A42D-F7CE62E2824B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CAAB2CC-F8EA-4077-A42D-F7CE62E2824B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CAAB2CC-F8EA-4077-A42D-F7CE62E2824B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CAAB2CC-F8EA-4077-A42D-F7CE62E2824B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D819619-2078-4278-BE27-7A22DC5BAE3B}.Debug|Any CPU.ActiveCfg = Debug
+		{1D819619-2078-4278-BE27-7A22DC5BAE3B}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A095EAE6-657E-4382-B138-542316DF7596}
+	EndGlobalSection
+EndGlobal
